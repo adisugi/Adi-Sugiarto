@@ -1,2 +1,3 @@
 # adi_portofolio
-A portofolio about data analytics and data science
+Forecasting Credit Optimization
+Dataset by BRI Hackathon
