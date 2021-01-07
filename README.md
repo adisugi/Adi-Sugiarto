@@ -16,4 +16,4 @@ The accuracy results for both training and test model is about 0.76
 
 
 
-![churn proportion](https://github.com/adisugi/Adi-Sugiarto-Portofolio/blob/main/project1/Figure_4.png?raw=true =250x250)
+![churn proportion](https://github.com/adisugi/Adi-Sugiarto-Portofolio/blob/main/project1/Figure_4.png?raw=true =100x100)
