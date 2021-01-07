@@ -15,4 +15,4 @@ Here was also created a model using K-Nearest Neighbor (KNN) algorithm to classi
 The accuracy results for both training and test model is about 0.76
 
 
-<img src="https://github.com/adisugi/Adi-Sugiarto-Portofolio/blob/main/project1/Figure_4.png?raw=true" width="500" height="500">
+<img src="https://github.com/adisugi/Adi-Sugiarto-Portofolio/blob/main/project1/Figure_4.png?raw=true" width="300" height="300">
