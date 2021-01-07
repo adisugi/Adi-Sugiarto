@@ -14,7 +14,6 @@ The datasets, contains 100000 rows with 2 first columns are increment indexes. H
 Here was also created a model using K-Nearest Neighbor (KNN) algorithm to classifing the customers is churn or not.
 The accuracy results for both training and test model is about 0.76
 
-<img src="https://github.com/adisugi/Adi-Sugiarto-Portofolio/blob/main/project1/Figure_4.png?raw=true", width="400">
 
 
-![churn proportion](https://github.com/adisugi/Adi-Sugiarto-Portofolio/blob/main/project1/Figure_4.png?raw=true)
+![churn proportion](https://github.com/adisugi/Adi-Sugiarto-Portofolio/blob/main/project1/Figure_4.png?raw=true =250x250)
