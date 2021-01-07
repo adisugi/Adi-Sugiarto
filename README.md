@@ -1,6 +1,7 @@
 # Adi Sugiarto Portofolio
 Data analytic and data sciene project
 
+
 # [Project 1 : Bussines Decision Research](https://github.com/adisugi/portofolio/tree/main/project1)
 This project provided by [DQlab](https://www.dqlab.id/), with the case :
 - There is a store which sell the sport necessities like jackets, clothes, bags and shoes since 2013. So it has customers from the started on.
