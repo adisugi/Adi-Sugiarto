@@ -4,7 +4,7 @@ This project provided by [DQlab](https://www.dqlab.id/), with the case :
 - At the beginning of 2019 the store got a decrease of customers. if a customer have no transaction for 6 month ago, it's defined as churn.
 - Here we should making some analysis based on transaction data from the store own.
 
-The datasets, contains 100000 rows with 2 first columns are increment index. Here some analysis and visualization was made, its like :
+The datasets, contains 100000 rows with 2 first columns are increment indexes. Here some analysis and visualization was made, its like :
 - Determined the churn customers
 - Customer number per year (year first transaction)
 - Transaction number per year (year first transaction)
